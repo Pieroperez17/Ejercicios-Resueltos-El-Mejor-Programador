@@ -14,13 +14,13 @@ El concurso desafía a los participantes a resolver problemas de programación e
 
 Cada archivo `.py` corresponde a un ejercicio diferente presentado durante el concurso:
 
-### 1️⃣ Pirámide de Letras del Abecedario
+### ⚪ Pirámide de Letras del Abecedario
 
 **Archivo:** `PrimerEjercicio.py`  
 **Descripción:**  
 Función que retorna una pirámide formada por letras del abecedario. El objetivo es construir la pirámide de manera dinámica y elegante.
 
-### 2️⃣ ¿Es Primo? – Reto de Repechaje
+### ⚪ ¿Es Primo? – Reto de Repechaje
 
 **Archivo:** `RepechajeEjercicio.py`  
 **Descripción:**  
@@ -48,7 +48,7 @@ comunes = ["password", "123456", "admin", "qwerty", "letmein"]
 
 ## 📺 Mira el Concurso en YouTube
 
-¿Quieres ver cómo resolví estos retos en vivo?  
+¿Quieres ver quien gano el concurso?  
 👉 [Haz clic aquí para ver el concurso en YouTube](https://www.youtube.com/@HackeMate)
 
 ---
